@@ -1,6 +1,11 @@
 <!-- ========================================================= -->
-<!-- TIÊU ĐỀ -->
+<!--                      GITHUB PROFILE                       -->
+<!--                  vanmanhgamingpro-developer               -->
 <!-- ========================================================= -->
+
+<!-- ========================= -->
+<!--         HEADER            -->
+<!-- ========================= -->
 
 <p align="center">
   <img
@@ -16,9 +21,9 @@
   />
 </p>
 
-<!-- ========================================================= -->
-<!-- LƯỢT XEM PROFILE -->
-<!-- ========================================================= -->
+<!-- ========================= -->
+<!--       PROFILE VIEWS       -->
+<!-- ========================= -->
 
 <p align="center">
   <img
@@ -27,9 +32,9 @@
   />
 </p>
 
-<!-- ========================================================= -->
-<!-- GITHUB TROPHIES -->
-<!-- ========================================================= -->
+<!-- ========================= -->
+<!--       GITHUB TROPHY       -->
+<!-- ========================= -->
 
 <p align="center">
   <img
@@ -38,9 +43,11 @@
   />
 </p>
 
-<!-- ========================================================= -->
-<!-- THÔNG TIN CÁ NHÂN -->
-<!-- ========================================================= -->
+<!-- ========================= -->
+<!--       ABOUT ME            -->
+<!-- ========================= -->
+
+## 👨‍💻 Về tôi
 
 - 🔭 Hiện tại tôi đang làm việc trên **GitHub**
 - 🌱 Hiện tại tôi đang học **Không Tiết Lộ Nha =))**
@@ -55,9 +62,14 @@
 
 ---
 
+<!-- ========================= -->
+<!--      SOCIAL LINKS         -->
+<!-- ========================= -->
+
 ## 🌐 Kết nối với tôi
 
 <p align="center">
+
   <a href="https://fb.com/bong.toi.11022010">
     <img
       src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"
@@ -73,9 +85,14 @@
       alt="YouTube"
     />
   </a>
+
 </p>
 
 ---
+
+<!-- ========================= -->
+<!--     LANGUAGES & TOOLS     -->
+<!-- ========================= -->
 
 ## 🛠️ Ngôn ngữ và công cụ
 
@@ -229,42 +246,67 @@
 
 ---
 
+<!-- ========================= -->
+<!--       GITHUB STATS        -->
+<!-- ========================= -->
+
 ## 📊 Thống kê GitHub
+
+<!-- GitHub Stats -->
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=vanmanhgamingpro-developer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&icon_color=F79C42&text_color=FFFFFF"
-    alt="Thống kê GitHub"
+    alt="GitHub Stats"
     height="180"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanmanhgamingpro-developer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&text_color=FFFFFF"
-    alt="Ngôn ngữ sử dụng nhiều nhất"
+    alt="Top Languages"
     height="180"
   />
 </p>
+
+<!-- Profile Summary -->
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanmanhgamingpro-developer&theme=radical"
-    alt="Chi tiết hồ sơ GitHub"
+    alt="GitHub Profile Summary"
     width="90%"
   />
 </p>
+
+<!-- Activity Graph -->
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=vanmanhgamingpro-developer&bg_color=0D1117&color=F79C42&line=F79C42&point=FFFFFF&area=true&hide_border=true"
-    alt="Biểu đồ hoạt động GitHub"
+    alt="GitHub Activity Graph"
     width="90%"
   />
 </p>
 
+<!-- Streak -->
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=vanmanhgamingpro-developer&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"
-    alt="Chuỗi đóng góp GitHub"
+    alt="GitHub Streak"
     height="180"
+  />
+</p>
+
+---
+
+<!-- ========================= -->
+<!--          FOOTER           -->
+<!-- ========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=F79C42&height=120&section=footer"
+    alt="Footer"
   />
 </p>
