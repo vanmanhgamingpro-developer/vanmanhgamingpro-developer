@@ -28,7 +28,7 @@
 <!-- Danh hiệu SSS+ với hiệu ứng neon -->
 <div class="text-center mt-8">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=onedark&column=8&no-frame=true&margin-w=15&margin-h=15" 
+    src="[https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=onedark&column=8&no-frame=true&margin-w=15&margin-h=15](https://camo.githubusercontent.com/4803cc4d52ac140f781fc18f6c5fa45250a9d3397564b5f82f343a03314abb13/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f6f70656e2d736f757263657265722d64656661756c742e706e67)" 
     alt="Danh hiệu GitHub" 
     class="mx-auto transform hover:scale-105 transition-transform duration-500 neon-glow" 
   />
