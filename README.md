@@ -19,7 +19,7 @@
 <!-- Lượt xem hồ sơ -->
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Lượt%20Xem%20Profile:&color=F79C42&style=flat-square" 
+    src="https://komarev.com/ghpvc/?username=vanmanhgamingpro-developer&label=Lượt%20Xem%20Profile:&color=F79C42&style=flat-square" 
     alt="vanmanhgamingpro-developer" 
     style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #F79C42);" 
   />
@@ -28,9 +28,9 @@
 <!-- Danh hiệu SSS+ với hiệu ứng neon -->
 <div class="text-center mt-8">
   <img 
-    src="[https://github-profile-trophy.vercel.app/?username=vanmanhgaming2k9&theme=onedark&column=8&no-frame=true&margin-w=15&margin-h=15](https://camo.githubusercontent.com/4803cc4d52ac140f781fc18f6c5fa45250a9d3397564b5f82f343a03314abb13/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f6f70656e2d736f757263657265722d64656661756c742e706e67)" 
-    alt="Danh hiệu GitHub" 
-    class="mx-auto transform hover:scale-105 transition-transform duration-500 neon-glow" 
+    src="https://github-profile-trophy.vercel.app/?username=vanmanhgamingpro-developer&theme=onedark&column=8&no-frame=true&margin-w=15&margin-h=15"
+    alt="Danh hiệu GitHub"
+    class="mx-auto transform hover:scale-105 transition-transform duration-500 neon-glow"
   />
 </div>
 
@@ -90,7 +90,7 @@
 
 <!-- Thống kê tổng quan -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=vanmanhgaming2k9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&icon_color=F79C42&text_color=FFFFFF" 
+  src="https://github-readme-stats.vercel.app/api?username=vanmanhgamingpro-developer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&icon_color=F79C42&text_color=FFFFFF" 
   alt="Thống kê GitHub" 
   height="180" 
   style="margin: 10px;" 
@@ -98,7 +98,7 @@
 
 <!-- Ngôn ngữ sử dụng nhiều nhất -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanmanhgaming2k9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&text_color=FFFFFF" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanmanhgamingpro-developer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F79C42&text_color=FFFFFF" 
   alt="Ngôn ngữ hàng đầu" 
   height="180" 
   style="margin: 10px;" 
@@ -106,21 +106,21 @@
 
 <!-- Thẻ tổng hợp -->
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanmanhgaming2k9&theme=radical" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanmanhgamingpro-developer&theme=radical" 
   alt="Chi tiết hồ sơ" 
   style="margin: 10px; width: 90%;" 
 />
 
 <!-- Biểu đồ đóng góp -->
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=vanmanhgaming2k9&bg_color=0D1117&color=F79C42&line=F79C42&point=FFFFFF&area=true&hide_border=true" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vanmanhgamingpro-developer&bg_color=0D1117&color=F79C42&line=F79C42&point=FFFFFF&area=true&hide_border=true" 
   alt="Biểu đồ hoạt động" 
   style="margin: 10px; width: 90%;" 
 />
 
 <!-- Chuỗi đóng góp -->
 <img 
-  src="https://streak-stats.demolab.com?user=vanmanhgaming2k9&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" 
+  src="https://streak-stats.demolab.com?user=vanmanhgamingpro-developer&theme=radical&hide_border=true&background=0D1117&ring=F79C42&fire=F79C42&currStreakLabel=F79C42&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" 
   alt="Chuỗi đóng góp GitHub" 
   height="180" 
   style="margin: 10px;" 
