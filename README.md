@@ -39,11 +39,11 @@
 - 🌱 Hiện tại tôi đang học **Không Tiết Lộ Nha =))**  
 - 👯 Tôi đang tìm kiếm cơ hội hợp tác trên **GitHub**  
 - 🤝 Tôi đang cần sự giúp đỡ về **GitHub**  
-- 👨‍💻 Tất cả dự án của tôi đều có tại [github.com/vanmanhgamingpro-developer](https://github.com/vanmanhgamingpro-developer)  
-- 📝 Tôi thường xuyên viết bài tại [github.com/vanmanhgamingpro-developer](https://github.com/vanmanhgamingpro-developer)  
+- 👨‍💻 Tất cả dự án của tôi đều có tại [vanmanhgamingpro-developer](https://github.com/vanmanhgamingpro-developer)  
+- 📝 Tôi thường xuyên viết bài tại [vanmanhgamingpro-developer](https://github.com/vanmanhgamingpro-developer)  
 - 💬 Hỏi tôi về **Bất cứ điều gì nếu tôi biết =))**  
-- 📫 Liên hệ với tôi qua **vanmanhgamingpro+supportgithub@gmail.com**
-- 📄 Tìm hiểu về kinh nghiệm của tôi tại [github.com/vanmanhgamingpro-developer](https://github.com/vanmanhgamingpro-developer)  
+- 📫 Liên hệ với tôi qua **[Gmail](vanmanhgamingpro+supportgithub@gmail.com)**
+- 📄 Tìm hiểu về kinh nghiệm của tôi tại [vanmanhgamingpro-developer](https://github.com/vanmanhgamingpro-developer)  
 - ⚡ Sự thật thú vị: **Tôi không biết gì =))**  
 
 ---
