@@ -20,7 +20,7 @@
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=vanmanhgaming2k9&label=Lượt%20Xem%20Profile:&color=F79C42&style=flat-square" 
-    alt="vanmanhgaming2k9" 
+    alt="vanmanhgamingpro-developer" 
     style="animation: pulse 2s infinite; filter: drop-shadow(0px 0px 8px #F79C42);" 
   />
 </p>
@@ -39,11 +39,11 @@
 - 🌱 Hiện tại tôi đang học **Không Tiết Lộ Nha =))**  
 - 👯 Tôi đang tìm kiếm cơ hội hợp tác trên **GitHub**  
 - 🤝 Tôi đang cần sự giúp đỡ về **GitHub**  
-- 👨‍💻 Tất cả dự án của tôi đều có tại [github.com/vanmanhgaming2k9](https://github.com/vanmanhgaming2k9)  
-- 📝 Tôi thường xuyên viết bài tại [github.com/vanmanhgaming2k9](https://github.com/vanmanhgaming2k9)  
+- 👨‍💻 Tất cả dự án của tôi đều có tại [github.com/vanmanhgamingpro-developer](https://github.com/vanmanhgamingpro-developer)  
+- 📝 Tôi thường xuyên viết bài tại [github.com/vanmanhgamingpro-developer](https://github.com/vanmanhgamingpro-developer)  
 - 💬 Hỏi tôi về **Bất cứ điều gì nếu tôi biết =))**  
-- 📫 Liên hệ với tôi qua **vanmanhgaming1102@gmail.com**  
-- 📄 Tìm hiểu về kinh nghiệm của tôi tại [github.com/vanmanhgaming2k9](https://github.com/vanmanhgaming2k9)  
+- 📫 Liên hệ với tôi qua **vanmanhgamingpro+supportgithub@gmail.com**
+- 📄 Tìm hiểu về kinh nghiệm của tôi tại [github.com/vanmanhgamingpro-developer](https://github.com/vanmanhgamingpro-developer)  
 - ⚡ Sự thật thú vị: **Tôi không biết gì =))**  
 
 ---
